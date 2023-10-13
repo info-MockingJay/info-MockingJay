@@ -13,7 +13,7 @@
 
 ## All Projects
 ### Odoo Development
-- [Here are all module I have developed using odoo 16 community](https://github.com/SawLwinnOo/odoo16ce/tree/16.0).
+- [Here are all modules I have developed using odoo 16 community](https://github.com/SawLwinnOo/odoo16ce/tree/16.0).
 
 ## Languages and Tools
 <p >   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
