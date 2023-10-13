@@ -52,7 +52,7 @@
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKhbwdzDjHpsNPDkXwKvCMwWgpBXSBZkPpVQwjXQGHvgCWNHjGcKzSgTCmZLvhlgFQFZXfh">
+    <a href="sawlwinnoo01@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="SawLwinnOo's Gmail">
     </a>
