@@ -23,16 +23,12 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Josee9988&show_icons=true&theme=monokai&count_private=true"
+        <img width="49%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SawlwinnOo)](https://github.com/anuraghazra/github-readme-stats)"
             alt="SawLwinnOo's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Josee9988&theme=monokai"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SawLwinnOo&theme=monokai"
             alt="SawLwinnOo's Github commit streak">
-    </a>
-    <a href="https://wakatime.com/@Josee9988/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="SawLwinnOo's wakatime last year stats">
     </a>
 </div>
 
