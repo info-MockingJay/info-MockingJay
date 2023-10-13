@@ -2,7 +2,6 @@
 
 # Hi, I'm Saw Lwinn Oo! 👋
 
----
 
 ## **😊 About me**
 
