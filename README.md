@@ -11,19 +11,19 @@
 - 👯 I'm looking to start a brand-new project/idea.
 - 🔭  I'm looking for a sofrware developer job.
 - 💬 Ask me about something!
-- 📫 How to reach me **sawlwinnoo01@gmail.com**
+- 📫 How to reach me => **sawlwinnoo01@gmail.com**
 
 ---
 ## All Projects
 ### Odoo Development
-- <a herf="https://github.com/SawLwinnOo/odoo16ce/tree/16.0">Here are all module I have developed using odoo16 community.</a>
+- [Here are all module I have developed using odoo16 community](https://github.com/SawLwinnOo/odoo16ce/tree/16.0).
 
 
 ## **📊 Stats**
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SawlwinnOo)](https://github.com/anuraghazra/github-readme-stats)"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SawLwinnOo&show_icons=true&theme=monokai&count_private=true"
             alt="SawLwinnOo's Github stats">
     </a>
     <a href="#">
