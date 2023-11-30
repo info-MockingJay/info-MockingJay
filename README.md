@@ -14,6 +14,7 @@
 ### Odoo Development
 - [16.0 Community](https://github.com/SawLwinnOo/odoo16ce/tree/16.0)
 - [17.0 Community](https://github.com/SawLwinnOo/odoo_dev/tree/17.0)
+- [Owl JS](https://github.com/SawLwinnOo/odoo_owl)
 
 ### Flask
 - [Ecommerce site](https://github.com/SawLwinnOo/flask_web_dev/tree/main/e_commerce)
