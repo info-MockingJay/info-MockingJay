@@ -57,7 +57,7 @@
 
 
 ## **📫 How to reach me**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SawLwinnOo&label=Profile%20views&color=0e75b6&style=flat" alt="SawLwinnOo" /> </p>
+
 
 <div align="center" style="text-align:center">
     <a href="sawlwinnoo01@gmail.com">
@@ -72,5 +72,6 @@
       <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook " />
     </a> 
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SawLwinnOo&label=Profile%20views&color=0e75b6&style=flat" alt="SawLwinnOo" /> </p>
 
 
