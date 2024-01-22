@@ -58,7 +58,6 @@
 
 ## **📫 How to reach me**
 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <div align="center" style="text-align:center">
     <a href="sawlwinnoo01@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
