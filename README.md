@@ -44,18 +44,6 @@
 </p>
 
 
-<div align="center" style="text-align:center">
-<!--     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SawLwinnOo&show_icons=true&theme=monokai&count_private=true"
-            alt="SawLwinnOo's Github stats">
-    </a> -->
-    <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SawLwinnOo&theme=monokai"
-            alt="SawLwinnOo's Github commit streak">
-    </a>
-</div>
-
-
 ## **📫 How to reach me**
 
 <div align="center" style="text-align:center">
@@ -72,6 +60,16 @@
     </a> 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SawLwinnOo&label=Profile%20views&color=0e75b6&style=flat" alt="SawLwinnOo" /> </p>
+<div align="center" style="text-align:center">
+<!--     <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SawLwinnOo&show_icons=true&theme=monokai&count_private=true"
+            alt="SawLwinnOo's Github stats">
+    </a> -->
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SawLwinnOo&theme=monokai"
+            alt="SawLwinnOo's Github commit streak">
+    </a>
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SawLwinnOo" alt="SawLwinnOo" /></a> </p>
 
 
