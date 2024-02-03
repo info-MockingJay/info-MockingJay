@@ -16,11 +16,6 @@
 - [17.0 Community](https://github.com/SawLwinnOo/odoo_dev/tree/17.0)
 - [Owl JS](https://github.com/SawLwinnOo/odoo_owl)
 
-### Flask
-- [Ecommerce site](https://github.com/SawLwinnOo/flask_web_dev/tree/main/e_commerce)
-
-### FastAPI
-- [Weather API](https://github.com/SawLwinnOo/FastAPI_Dev/tree/main/weather_API)
 
 ## Languages and Tools
 <p >   
