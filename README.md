@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Saw Lwinn Oo! 👋
-
+[committers.top badge](https://user-badge.committers.top/myanmar/SawLwinnOo.svg)](https://user-badge.committers.top/myanmar/SawLwinnOo)
 
 ## **😊 About me**
 
@@ -61,7 +61,7 @@
     </a> 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SawLwinnOo&label=Profile%20views&color=0e75b6&style=flat" alt="SawLwinnOo" /> </p>
-[![committers.top badge](https://user-badge.committers.top/myanmar/SawLwinnOo.svg)](https://user-badge.committers.top/myanmar/SawLwinnOo)
+
 
 <div align="center" style="text-align:center">
 <!--     <a href="#">
