@@ -1,7 +1,6 @@
 
 
 # Hi, I'm Saw Lwinn Oo! 👋
-[committers.top badge](https://user-badge.committers.top/myanmar/SawLwinnOo.svg)](https://user-badge.committers.top/myanmar/SawLwinnOo)
 
 ## **😊 About me**
 
