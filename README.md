@@ -72,6 +72,6 @@
             alt="SawLwinnOo's Github commit streak">
     </a>
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SawLwinnOo" alt="SawLwinnOo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SawLwinnOo&theme=matrix" alt="SawLwinnOo" /></a> </p>
 
 
