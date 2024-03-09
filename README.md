@@ -9,12 +9,6 @@
 - 🔭  I'm looking for a sofrware developer job.
 - 💬 Ask me about something!
 
-## All Projects
-### Odoo Development
-- [16.0 Community](https://github.com/SawLwinnOo/odoo16ce/tree/16.0)
-- [17.0 Community](https://github.com/SawLwinnOo/odoo_dev/tree/17.0)
-- [Owl JS](https://github.com/SawLwinnOo/odoo_owl)
-
 
 ## Languages and Tools
 <p >   
@@ -31,10 +25,6 @@
 <!--     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<!--     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  -->
-<!--     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> --> 
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg" alt="Nginx" width="100"/> </a> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
      <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
@@ -42,6 +32,12 @@
 
         
 </p>
+
+## All Projects
+### Odoo Development
+- [16.0 Community](https://github.com/SawLwinnOo/odoo16ce/tree/16.0)
+- [17.0 Community](https://github.com/SawLwinnOo/odoo_dev/tree/17.0)
+- [Owl JS](https://github.com/SawLwinnOo/odoo_owl)
 
 
 ## **📫 How to reach me**
@@ -63,14 +59,13 @@
 
 
 <div align="center" style="text-align:center">
-    <a href="#">
+<!--     <a href="#">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SawLwinnOo&show_icons=true&theme=monokai&count_private=true"
             alt="SawLwinnOo's Github stats">
-    </a>
-    <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SawLwinnOo&theme=monokai"
-            alt="SawLwinnOo's Github commit streak">
-    </a>
+    </a> -->
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SawLwinnOo&show_icons=true&locale=en&layout=compact" alt="SawLwinnOo" /></p>
+   <p><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SawLwinnOo&theme=monokai"
+            alt="SawLwinnOo's Github commit streak"></p>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SawLwinnOo&theme=matrix" alt="SawLwinnOo" /></a> </p>
 
