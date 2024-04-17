@@ -11,9 +11,8 @@
 
 ## All Projects
 ### Odoo Development
-- [16.0 Community](https://github.com/SawLwinnOo/odoo16ce/tree/16.0)
-- [17.0 Community](https://github.com/SawLwinnOo/odoo_dev/tree/17.0)
-- [Owl JS](https://github.com/SawLwinnOo/odoo_owl)
+- [16.0 Community](https://github.com/SawLwinnOo/odoo16ce/tree/main)
+
 
 
 ## Languages and Tools
