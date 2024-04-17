@@ -11,7 +11,7 @@
 
 ## All Projects
 ### Odoo Development
-- [All Module](https://github.com/SawLwinnOo/odoo16ce/tree/main)
+- [All Modules](https://github.com/SawLwinnOo/odoo16ce/tree/main)
 
 
 
