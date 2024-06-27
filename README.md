@@ -6,9 +6,9 @@
 
 - 🌱 I'm learning Odoo ERP, FastAPI, Django and JavaScript.
 - 👯 I'm looking to start a brand-new project/idea.
-- 🔭  I'm looking for a sofrware developer job.
+- 🔭 I'm looking for a sofrware developer job.
 - 💬 Ask me about something!
-- (rocket)[https://sawlwinoo.odoo.com/](https://sawlwinoo.odoo.com/)
+- 😊 [https://sawlwinoo.odoo.com/](https://sawlwinoo.odoo.com/)
 
 ## All Projects
 ### Odoo Development
