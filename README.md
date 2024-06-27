@@ -8,7 +8,7 @@
 - 👯 I'm looking to start a brand-new project/idea.
 - 🔭  I'm looking for a sofrware developer job.
 - 💬 Ask me about something!
-- [https://sawlwinoo.odoo.com/](https://sawlwinoo.odoo.com/)
+- (rocket)[https://sawlwinoo.odoo.com/](https://sawlwinoo.odoo.com/)
 
 ## All Projects
 ### Odoo Development
