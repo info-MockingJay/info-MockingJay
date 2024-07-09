@@ -12,7 +12,8 @@
 
 ## All Projects
 ### Odoo Development
-- [All Modules](https://github.com/SawLwinnOo/odoo16ce/tree/main)
+- [App Store](https://apps.odoo.com/apps/modules/browse?author=Saw%20Lwin%20Oo)
+- [Github](https://github.com/SawLwinnOo/odoo_dev)
 
 
 
