@@ -46,7 +46,7 @@
             alt="SawLwinnOo's Github stats">
     </a> -->
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Info-MockingJay&show_icons=true&locale=en&layout=compact&theme=dark" alt="SawLwinnOo" /></p>
-    <p><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SawLwinnOo&theme=dark"
+    <p><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Info-MockingJay&theme=dark"
             alt="SawLwinnOo's Github commit streak"></p>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Info-MockingJay&theme=matrix" alt="SawLwinnOo" /></a> </p>
