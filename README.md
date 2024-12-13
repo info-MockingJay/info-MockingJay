@@ -4,9 +4,9 @@
 
 ## **😊 About me**
 
-- 🌱 I'm learning Odoo ERP, FastAPI, Django and JavaScript.
+- 🌱 I'm Senior Developer who developing android app and ERP Software using Kotlin, Python and JS.
 - 👯 I'm looking to start a brand-new project/idea.
-- 🔭 I'm looking for a sofrware developer job.
+- 🔭 I'm also working as an ERP Consultant.
 - 💬 Ask me about something!
 - 😊 [https://sawlwinoo.odoo.com/](https://sawlwinoo.odoo.com/)
 
@@ -45,11 +45,11 @@
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SawLwinnOo&show_icons=true&theme=monokai&count_private=true"
             alt="SawLwinnOo's Github stats">
     </a> -->
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SawLwinnOo&show_icons=true&locale=en&layout=compact&theme=dark" alt="SawLwinnOo" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Info-MockingJay&show_icons=true&locale=en&layout=compact&theme=dark" alt="SawLwinnOo" /></p>
     <p><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SawLwinnOo&theme=dark"
             alt="SawLwinnOo's Github commit streak"></p>
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SawLwinnOo&theme=matrix" alt="SawLwinnOo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Info-MockingJay&theme=matrix" alt="SawLwinnOo" /></a> </p>
 
 
 ## **📫 How to reach me**
